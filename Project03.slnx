@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Project03.TextProcessing.Tests/Project03.TextProcessing.Tests.csproj" />
+  <Project Path="Project03.TextProcessing/Project03.TextProcessing.csproj" />
+</Solution>
